@@ -24,4 +24,4 @@ jobs:
     - name: Deploy to S3
       env:
         S3: ${{ secrets.S3 }}
-        run: aws s3 sync __sapper__/export/ $S3 --delete
+      run: aws s3 sync __sapper__/export/ $S3 --delete
