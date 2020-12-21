@@ -1,7 +1,7 @@
 # Sapper + Github Actions + S3
 <img src="https://github.com/theswerd/sapper-githubactions-s3-demo/blob/main/banner.jpg?raw=true"></img>
 
-Read how to create this repository from strach on your own [here](https://swerdlowben.medium.com/automate-sapper-deployments-with-github-actions-d858e154dfb6)
+Read how to create this repository from strach [here](https://swerdlowben.medium.com/automate-sapper-deployments-with-github-actions-d858e154dfb6)
 
 This is a template repo that allows you to automatically deploy your **Sapper** app to S3 whenever there is a push to master with Github Actions.
 
